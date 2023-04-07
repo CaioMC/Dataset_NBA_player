@@ -4,7 +4,7 @@ No geral, este projeto demonstra como as técnicas de raspagem na web e análise
 
 Aqui está um dicionário de dados para a tabela
 
-Jogador: string - nome do jogador
+### Jogador: string - nome do jogador
 Pos ( Posição ): string - posição jogada pelo jogador
 Idade: número inteiro - idade do jogador em 1 de fevereiro de 2023
 Tm ( Equipe ): string - equipe à qual o jogador pertence
