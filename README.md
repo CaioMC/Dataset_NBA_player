@@ -33,3 +33,7 @@ Aqui está um dicionário de dados para a tabela
 ### TOV ( Volume de negócios ): número inteiro - número de rotatividade efetuada pelo jogador
 ### Falha pessoal ( ): número inteiro - número de faltas pessoais feitas pelo jogador
 ### Pontos PTS ( ): número inteiro - total de pontos marcados pelo jogador
+
+# Arquivo .ipynb
+
+Arquivo para importar no Google Colab
